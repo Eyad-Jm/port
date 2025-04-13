@@ -51,11 +51,11 @@ const siteConfig = {
         titlePart2: { en: "Me", ar: "عني" },
         p1: {
             en: "I'm Eyad, a passionate Software Engineer from Syria with expertise in full stack web development and 3D art creation. My journey in technology began with programming and expanded to include digital art and design, allowing me to create comprehensive digital solutions.",
-            ar: "أنا إياد، مهندس برمجيات شغوف من سوريا ولدي خبرة في تطوير الويب(Full Stack) وإنشاء الفن ثلاثي الأبعاد. بدأت رحلتي في التكنولوجيا بالبرمجة وتوسعت لتشمل الفن الرقمي والتصميم، مما سمح لي بإنشاء حلول رقمية شامل"
+            ar: " أنا إياد، مهندس برمجيات شغوف من سوريا ولدي خبرة في تطوير الويب المتكامل(Full Stack) وإنشاء الفن ثلاثي الأبعاد. بدأت رحلتي في التكنولوجيا بالبرمجة وتوسعت لتشمل الفن الرقمي والتصميم، مما سمح لي بإنشاء حلول رقمية شامل "
         },
         p2: {
             en: "As a full stack developer, I specialize in building robust, scalable web applications with clean code and intuitive user interfaces. My 3D art skills using Blender enable me to create stunning visuals and CGI commercials that bring ideas to life.",
-            ar: "كمطور ويب كامل، أتخصص في بناء تطبيقات ويب قوية وقابلة للتطوير بكود نظيف وواجهات مستخدم بديهية. تمكنني مهاراتي في الفن ثلاثي الأبعاد باستخدام Blender من إنشاء مؤثرات بصرية مذهلة وإعلانات CGI تجعل الأفكار تنبض بالحياة."
+            ar: "كمطور ويب متكامل، أتخصص في بناء تطبيقات ويب قوية وقابلة للتطوير بكود نظيف وواجهات مستخدم بديهية. تمكنني مهاراتي في الفن ثلاثي الأبعاد باستخدام Blender من إنشاء مؤثرات بصرية مذهلة وإعلانات CGI تجعل الأفكار تنبض بالحياة."
         },
         p3: {
             en: "When I'm not coding or modeling, you can find me exploring new design techniques, contributing to open source projects, or mentoring aspiring developers and artists in my community.",
@@ -67,7 +67,7 @@ const siteConfig = {
         titlePart2: { en: "Skills", ar: "" }, // Arabic title combined in part 1
         development: {
             title: { en: "Development", ar: "التطوير" },
-            description: { en: "Full stack development with focus on performance, security, and maintainability.", ar: "تطوير ويب كامل مع التركيز على الأداء والأمان وقابلية الصيانة." },
+            description: { en: "Full stack development with focus on performance, security, and maintainability.", ar: "تطوير ويب متكامل مع التركيز على الأداء والأمان وقابلية الصيانة." },
             items: ["JavaScript", "React", "Node.js", "Express", "MongoDB", "PostgreSQL", "REST APIs", "Docker", "AWS"]
         },
         design: {

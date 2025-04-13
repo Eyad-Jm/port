@@ -35,7 +35,7 @@ const siteConfig = {
         },
         description: {
             en: "I build robust web applications and create stunning 3D visuals. Based in Syria, I'm passionate about merging technology and art to deliver exceptional digital experiences.",
-            ar: "أقوم ببناء تطبيقات ويب قوية وإنشاء مؤثرات بصرية ثلاثية الأبعاد مذهلة. مقيم في سوريا، وشغوف بدمج التكنولوجيا والفن لتقديم تجارب رقمية استثنائية."
+            ar: "أقوم ببناء تطبيقات ويب قوية وإنشاء المؤثرات البصرية ثلاثية الأبعاد. مقيم في سوريا، وشغوف بدمج التكنولوجيا والفن لتقديم تجارب رقمية استثنائية."
         },
         button1: {
             en: "View My Work",

@@ -83,7 +83,7 @@ const siteConfig = {
             {
                 title: { en: "Cloud Rendering Platform for Blender", ar: "منصة حوسبة سحابية لمشاريع Blender" },
                 category: { en: "Web Dev", ar: "تطوير ويب" },
-                description: { en: "Full-featured online cloud rendering platform that can process blender projects on multiple cloud devices, project management, and admin dashboard.", ar: "منصة إظهار سحابي بميزات كاملة لمعالجة مشاريع Blender عللى عدة أجهزة سحابية، واجهة لإدارة المشاريع،  وواجهة للمشرف على المشاريع" },
+                description: { en: "Full-featured online cloud rendering platform that can process blender projects on multiple cloud devices, project management, and admin dashboard.", ar: "منصة إظهار سحابي بميزات كاملة لمعالجة مشاريع Blender على عدة أجهزة سحابية، واجهة لإدارة المشاريع،  وواجهة للمشرف على المشاريع" },
                 tags: ["React", "Node.js", "MongoDB", "Stripe", "Python", "Linux"],
                 image: "assets/images/project1.jpeg",
                 categoryClass: "bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200"
